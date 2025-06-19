@@ -1,0 +1,7 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.pytest_cache/
+saucedemo/__pychache__/
+saucedemo/Include/
+saucedemo/Lib/
+saucedemo/Scripts/
+

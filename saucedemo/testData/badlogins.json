@@ -1,0 +1,17 @@
+[
+    {
+        "description": "bad login, bad password",
+        "data_username": "standard_usser",
+        "data_password": "xxl"
+    },
+    {
+        "description": "good login, bad password",
+        "data_username": "standard_user",
+        "data_password": "xxl"
+    },
+    {
+        "description": "bad login, good password",
+        "data_username": "standard_usser",
+        "data_password": "secret_sauce"
+    }
+]
